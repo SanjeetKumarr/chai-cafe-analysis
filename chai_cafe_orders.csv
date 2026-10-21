@@ -1,0 +1,305 @@
+Order_ID,Order_Date,Item,Category,Quantity,Unit_Price,Branch,Payment_Mode,Customer_Age,Rating
+O1000,2026-09-19,Bun Maska,Snack,1,35,Andheri,UPI,17,5.0
+O1001,2026-09-24,Cold Coffee,Beverage,1,120,Powai,UPI,41,5.0
+O1002,2026-09-23,Sandwich,Snack,1,90,Powai,UPI,49,4.0
+O1003,2026-09-05,Samosa,Snack,4,20,Andheri,UPI,40,4.0
+O1004,2026-09-25,Masala Chai,Beverage,2,30,Powai,Card,33,2.0
+O1005,2026-09-17,Cheesecake,Dessert,3,150,Powai,Cash,52,3.0
+O1006,2026-09-10,Bun Maska,Snack,2,35,Powai,UPI,32,
+O1007,2026-09-16,Bun Maska,Snack,1,35,Bandra,UPI,47,4.0
+O1008,2026-09-30,Masala Chai,Beverage,2,30,Andheri,UPI,36,5.0
+O1009,2026-09-26,Filter Coffee,Beverage,1,60,Andheri,UPI,18,3.0
+O1010,2026-09-26,Cold Coffee,Beverage,4,120,Andheri,Cash,39,5.0
+O1011,2026-09-14,Brownie,Dessert,1,80,Andheri,Card,19,4.0
+O1012,2026-09-24,Samosa,Snack,2,20,Powai,Card,57,5.0
+O1013,2026-09-12,Sandwich,Snack,4,90,Powai,Card,42,3.0
+O1014,2026-09-21,Filter Coffee,Beverage,3,60,Bandra,Card,32,4.0
+O1015,2026-09-20,Cutting Chai,Beverage,2,15,Andheri,,37,4.0
+O1016,2026-09-08,Vada Pav,Snack,3,25,ANDHERI,UPI,43,4.0
+O1017,2026-09-08,Masala Chai,Beverage,4,30,Bandra,UPI,250,3.0
+O1018,2026-09-02,Sandwich,Snack,2,90,Bandra,UPI,29,3.0
+O1019,2026-09-05,Vada Pav,Snack,3,25,Bandra,Cash,35,4.0
+O1020,2026-09-14,Bun Maska,Snack,4,35,Powai,UPI,28,3.0
+O1021,2026-09-15,Cold Coffee,Beverage,3,120,Andheri,Cash,49,2.0
+O1022,2026-09-05,Cheesecake,Dessert,2,150,Powai,Cash,21,4.0
+O1023,2026-09-13,Brownie,Dessert,1,80,Andheri,UPI,52,5.0
+O1024,2026-09-19,Bun Maska,Snack,1,35,Powai,UPI,31,1.0
+O1025,2026-09-07,Cutting Chai,Beverage,4,15,Andheri,UPI,41,3.0
+O1026,2026-09-11,Filter Coffee,Beverage,3,60,Powai,UPI,23,5.0
+O1027,2026-09-12,Masala Chai,Beverage,2,30,Bandra,Card,33,2.0
+O1028,2026-09-16,Masala Chai,Beverage,2,30,Andheri,Cash,49,5.0
+O1029,2026-09-11,Samosa,Snack,3,20,Powai,Cash,28,4.0
+O1030,2026-09-23,Bun Maska,Snack,3,35,Powai,UPI,22,4.0
+O1031,2026-09-10,Cheesecake,Dessert,3,150,POWAI,UPI,39,3.0
+O1032,2026-09-14,Cutting Chai,Beverage,2,15,Bandra,UPI,23,4.0
+O1033,2026-09-12,Cold Coffee,Beverage,3,120,Bandra,Cash,30,1.0
+O1034,2026-09-06,Filter Coffee,Beverage,2,60,Bandra,Cash,36,
+O1035,2026-09-21,Cutting Chai,Beverage,4,15,Bandra ,UPI,41,3.0
+O1036,2026-09-08,Masala Chai,Beverage,1,30,Andheri,Card,44,5.0
+O1037,2026-09-09,Filter Coffee,Beverage,1,60,andheri,UPI,46,4.0
+O1038,2026-09-24,Cutting Chai,Beverage,2,15,Powai,Card,53,2.0
+O1039,2026-09-29,Samosa,Snack,3,20,Powai,UPI,19,
+O1040,2026-09-21,Cold Coffee,Beverage,3,120,Andheri,UPI,32,2.0
+O1041,2026-09-28,Sandwich,Snack,2,90,Powai,Cash,17,5.0
+O1042,2026-09-26,Samosa,Snack,4,20,Bandra,UPI,17,3.0
+O1043,2026-09-15,Cutting Chai,Beverage,2,15,Bandra,UPI,26,3.0
+O1044,2026-09-24,Sandwich,Snack,1,90,Andheri,UPI,42,5.0
+O1045,2026-09-10,Bun Maska,Snack,1,35,Powai,UPI,55,3.0
+O1046,2026-09-14,Cold Coffee,Beverage,4,120,bandra,Cash,50,4.0
+O1047,2026-09-17,Cutting Chai,Beverage,1,15,Andheri,Card,44,2.0
+O1048,2026-09-29,Samosa,Snack,4,20,Andheri,Card,50,5.0
+O1049,2026-09-26,Masala Chai,Beverage,2,30,Bandra,UPI,24,4.0
+O1050,2026-09-15,Cutting Chai,Beverage,1,15,Andheri,UPI,53,4.0
+O1051,2026-09-20,Masala Chai,Beverage,2,30,Powai,UPI,55,3.0
+O1052,2026-09-07,Bun Maska,Snack,3,35,Andheri,UPI,21,1.0
+O1053,2026-09-25,Samosa,Snack,2,20,Bandra,UPI,37,4.0
+O1054,2026-09-17,Samosa,Snack,4,20,Powai,Card,52,3.0
+O1055,2026-09-16,Bun Maska,Snack,3,35,Bandra,Card,37,4.0
+O1056,2026-09-23,Filter Coffee,Beverage,2,60,Powai,Cash,53,1.0
+O1057,2026-09-19,Vada Pav,Snack,3,25,Bandra,UPI,57,3.0
+O1058,2026-09-03,Masala Chai,Beverage,4,30,Andheri,UPI,37,2.0
+O1059,2026-09-09,Masala Chai,Beverage,2,30,Bandra,UPI,19,5.0
+O1060,2026-09-06,Samosa,Snack,1,20,Bandra,UPI,31,5.0
+O1061,2026-09-23,Filter Coffee,Beverage,2,60,Powai,UPI,26,1.0
+O1062,2026-09-02,Vada Pav,Snack,4,25,Bandra,UPI,37,5.0
+O1063,2026-09-07,Bun Maska,Snack,1,35,Bandra,UPI,42,2.0
+O1064,2026-09-18,Vada Pav,Snack,4,25,Bandra,Card,36,3.0
+O1065,2026-09-21,Vada Pav,Snack,3,25,Andheri,UPI,25,5.0
+O1066,2026-09-16,Vada Pav,Snack,3,25,Powai,Card,29,
+O1067,2026-09-26,Cutting Chai,Beverage,2,15,Powai,,46,4.0
+O1068,2026-09-28,Masala Chai,Beverage,4,30,Bandra,Cash,18,2.0
+O1069,2026-09-04,Cold Coffee,Beverage,1,120,Andheri,UPI,26,1.0
+O1070,2026-09-29,Cutting Chai,Beverage,2,15,Bandra,UPI,55,5.0
+O1071,2026-09-19,Cold Coffee,Beverage,2,120,Andheri,UPI,21,4.0
+O1072,2026-09-20,Sandwich,Snack,2,90,Powai,UPI,34,4.0
+O1073,2026-09-03,Cutting Chai,Beverage,2,15,Andheri,Card,25,
+O1074,2026-09-19,Masala Chai,Beverage,1,30,Andheri,UPI,21,4.0
+O1075,2026-09-22,Cutting Chai,Beverage,1,15,Bandra,Cash,35,
+O1076,2026-09-18,Cutting Chai,Beverage,1,15,Powai,UPI,39,3.0
+O1077,2026-09-03,Samosa,Snack,3,20,Andheri,UPI,24,3.0
+O1078,2026-09-16,Vada Pav,Snack,2,25,Bandra,UPI,20,
+O1079,2026-09-29,Bun Maska,Snack,3,35,Bandra,UPI,22,
+O1080,2026-09-22,Samosa,Snack,3,20,Bandra,Card,45,2.0
+O1081,2026-09-05,Cold Coffee,Beverage,3,120,Bandra,Cash,53,5.0
+O1082,2026-09-29,Bun Maska,Snack,3,35,Bandra,Cash,24,3.0
+O1083,2026-09-29,Masala Chai,Beverage,3,30,Andheri,UPI,30,3.0
+O1084,2026-09-06,Masala Chai,Beverage,3,30,Andheri,UPI,31,4.0
+O1085,2026-09-25,Masala Chai,Beverage,3,30,Bandra,Card,32,1.0
+O1086,2026-09-13,Samosa,Snack,3,20,Andheri,UPI,27,4.0
+O1087,2026-09-18,Filter Coffee,Beverage,2,60,Powai,UPI,19,4.0
+O1088,2026-09-14,Masala Chai,Beverage,1,30,Powai,UPI,5,2.0
+O1089,2026-09-24,Filter Coffee,Beverage,4,60,Andheri,Cash,32,1.0
+O1090,2026-09-30,Masala Chai,Beverage,2,30,Bandra,Cash,31,4.0
+O1091,2026-09-24,Samosa,Snack,3,20,Powai,Cash,28,3.0
+O1092,2026-09-28,Filter Coffee,Beverage,1,60,Bandra,Cash,56,3.0
+O1093,2026-09-29,Cold Coffee,Beverage,2,120,Bandra,UPI,43,3.0
+O1094,2026-09-03,Cutting Chai,Beverage,3,15,Powai,Card,35,3.0
+O1095,2026-09-08,Vada Pav,Snack,3,25,Andheri,UPI,25,5.0
+O1096,2026-09-22,Cold Coffee,Beverage,3,120,Andheri,Cash,51,2.0
+O1097,2026-09-18,Masala Chai,Beverage,2,30,Andheri,UPI,55,4.0
+O1098,2026-09-02,Masala Chai,Beverage,4,30,Andheri,Card,18,5.0
+O1099,2026-09-03,Cheesecake,Dessert,3,150,Bandra,UPI,56,4.0
+O1100,2026-09-16,Brownie,Dessert,4,80,Bandra,UPI,47,5.0
+O1101,2026-09-19,Samosa,Snack,3,20,Bandra,UPI,21,5.0
+O1102,2026-09-06,Cutting Chai,Beverage,3,15,Bandra,UPI,49,2.0
+O1103,2026-09-06,Cheesecake,Dessert,4,150,Powai,UPI,21,2.0
+O1104,2026-09-04,Bun Maska,Snack,1,35,Bandra,Cash,19,4.0
+O1105,2026-09-17,Samosa,Snack,4,20,Andheri,UPI,21,3.0
+O1106,2026-09-01,Filter Coffee,Beverage,4,60,Powai,Card,36,4.0
+O1107,2026-09-18,Cutting Chai,Beverage,3,15,Powai,UPI,43,4.0
+O1108,2026-09-15,Masala Chai,Beverage,3,30,Andheri,Cash,34,2.0
+O1109,2026-09-14,Brownie,Dessert,3,80,Andheri,UPI,22,4.0
+O1110,2026-09-21,Filter Coffee,Beverage,2,60,Powai,Cash,25,5.0
+O1111,2026-09-16,Cutting Chai,Beverage,4,15,Andheri,Cash,53,4.0
+O1112,2026-09-22,Cutting Chai,Beverage,1,15,Powai,UPI,58,3.0
+O1113,2026-09-23,Vada Pav,Snack,2,25,Powai,Card,49,4.0
+O1114,2026-09-28,Masala Chai,Beverage,3,30,Powai,UPI,21,5.0
+O1115,2026-09-24,Sandwich,Snack,4,90,Bandra,UPI,52,5.0
+O1116,2026-09-16,Bun Maska,Snack,2,35,Andheri,Cash,46,4.0
+O1117,2026-09-15,Samosa,Snack,2,20,Bandra,Cash,39,4.0
+O1118,2026-09-08,Cold Coffee,Beverage,1,120,Andheri,UPI,23,
+O1119,2026-09-18,Vada Pav,Snack,1,25,Powai,UPI,59,
+O1120,2026-09-05,Vada Pav,Snack,1,25,Andheri,Card,36,2.0
+O1121,2026-09-28,Samosa,Snack,1,20,Andheri,Cash,18,3.0
+O1122,2026-09-26,Masala Chai,Beverage,4,30,Bandra,Card,26,3.0
+O1123,2026-09-04,Cold Coffee,Beverage,4,120,Powai,UPI,34,4.0
+O1124,2026-09-24,Masala Chai,Beverage,4,30,Bandra,Cash,19,4.0
+O1125,2026-09-04,Filter Coffee,Beverage,1,60,Bandra,UPI,30,4.0
+O1126,2026-09-22,Cutting Chai,Beverage,1,15,Bandra,Card,37,4.0
+O1127,2026-09-03,Masala Chai,Beverage,2,30,Bandra,UPI,57,1.0
+O1128,2026-09-15,Masala Chai,Beverage,3,30,Andheri,Cash,20,4.0
+O1129,2026-09-20,Vada Pav,Snack,2,25,Andheri,UPI,41,4.0
+O1130,2026-09-22,Masala Chai,Beverage,2,30,Bandra,Cash,56,4.0
+O1131,2026-09-13,Brownie,Dessert,1,80,Bandra ,Cash,51,3.0
+O1132,2026-09-28,Vada Pav,Snack,3,25,Bandra,UPI,56,5.0
+O1133,2026-09-24,Cold Coffee,Beverage,2,120,Bandra,Card,24,4.0
+O1134,2026-09-07,Vada Pav,Snack,1,25,Bandra,UPI,51,5.0
+O1135,2026-09-21,Masala Chai,Beverage,3,30,Andheri,Cash,59,3.0
+O1136,2026-09-22,Cheesecake,Dessert,4,150,Bandra,UPI,31,1.0
+O1137,2026-09-11,Filter Coffee,Beverage,1,60,Bandra,UPI,38,4.0
+O1138,2026-09-23,Bun Maska,Snack,2,35,Bandra,UPI,39,2.0
+O1139,2026-09-27,Masala Chai,Beverage,4,30,Andheri,UPI,38,4.0
+O1140,2026-09-25,Filter Coffee,Beverage,3,60,Bandra,UPI,29,3.0
+O1141,2026-09-23,Filter Coffee,Beverage,4,60,Bandra,Cash,58,5.0
+O1142,2026-09-20,Brownie,Dessert,60,80,Powai,Cash,58,5.0
+O1143,2026-09-09,Vada Pav,Snack,2,25,Bandra,Cash,33,5.0
+O1144,2026-09-24,Filter Coffee,Beverage,3,60,Andheri,UPI,51,4.0
+O1145,2026-09-11,Cutting Chai,Beverage,1,15,Andheri,UPI,34,5.0
+O1146,2026-09-16,Cutting Chai,Beverage,1,15,Bandra,UPI,51,2.0
+O1147,2026-09-10,Vada Pav,Snack,3,25,Andheri,Cash,42,5.0
+O1148,2026-09-10,Cold Coffee,Beverage,3,120,Powai,Card,37,4.0
+O1149,2026-09-05,Masala Chai,Beverage,1,30,Powai,UPI,22,5.0
+O1150,2026-09-29,Sandwich,Snack,3,90,Bandra,Cash,45,
+O1151,2026-09-05,Brownie,Dessert,2,80,Bandra,UPI,30,1.0
+O1152,2026-09-03,Masala Chai,Beverage,3,30,Bandra,UPI,26,4.0
+O1153,2026-09-29,Vada Pav,Snack,4,25,Andheri,UPI,25,4.0
+O1154,2026-09-17,Masala Chai,Beverage,1,30,Andheri,,59,5.0
+O1155,2026-09-14,Samosa,Snack,4,20,Bandra,Cash,21,4.0
+O1156,2026-09-23,Cutting Chai,Beverage,2,15,Bandra,Card,51,5.0
+O1157,2026-09-12,Samosa,Snack,4,20,Powai,UPI,54,4.0
+O1158,2026-09-04,Samosa,Snack,2,20,Bandra,UPI,18,4.0
+O1159,2026-09-22,Bun Maska,Snack,2,35,Andheri,Cash,42,5.0
+O1160,2026-09-06,Masala Chai,Beverage,4,30,Andheri,Card,41,3.0
+O1161,2026-09-17,Brownie,Dessert,3,80,Bandra,Cash,32,3.0
+O1162,2026-09-29,Cutting Chai,Beverage,1,15,Bandra,,45,5.0
+O1163,2026-09-29,Masala Chai,Beverage,3,30,Bandra,Cash,34,5.0
+O1164,2026-09-11,Vada Pav,Snack,4,25,Powai,UPI,35,2.0
+O1165,2026-09-24,Cold Coffee,Beverage,2,120,Bandra,Card,35,4.0
+O1166,2026-09-19,Sandwich,Snack,4,90,Bandra,UPI,51,3.0
+O1167,2026-09-15,Bun Maska,Snack,3,35,Bandra,Cash,44,1.0
+O1168,2026-09-05,Cutting Chai,Beverage,2,15,Bandra,UPI,33,3.0
+O1169,2026-09-12,Cheesecake,Dessert,1,150,Andheri,UPI,56,3.0
+O1170,2026-09-20,Cutting Chai,Beverage,3,15,Bandra,Card,51,4.0
+O1171,2026-09-30,Filter Coffee,Beverage,1,60,Andheri,Cash,57,
+O1172,2026-09-01,Cutting Chai,Beverage,4,15,Andheri,UPI,48,2.0
+O1173,2026-09-22,Brownie,Dessert,3,80,Powai,Card,33,5.0
+O1174,2026-09-26,Masala Chai,Beverage,2,30,BANDRA,Card,50,5.0
+O1175,2026-09-29,Masala Chai,Beverage,1,30,Powai,UPI,31,3.0
+O1176,2026-09-13,Cold Coffee,Beverage,3,120,Andheri,UPI,28,4.0
+O1177,2026-09-04,Cheesecake,Dessert,1,150,Bandra,UPI,36,4.0
+O1178,2026-09-09,Brownie,Dessert,2,80,Powai,Cash,58,3.0
+O1179,2026-09-26,Bun Maska,Snack,4,35,Powai,UPI,41,4.0
+O1180,2026-09-27,Brownie,Dessert,4,80,Bandra,UPI,33,
+O1181,2026-09-20,Brownie,Dessert,4,80,Powai,Card,36,3.0
+O1182,2026-09-04,Filter Coffee,Beverage,4,60,Andheri,Card,29,5.0
+O1183,2026-09-04,Cutting Chai,Beverage,3,15,Andheri,Cash,45,5.0
+O1184,2026-09-15,Bun Maska,Snack,1,35,Powai,Card,32,3.0
+O1185,2026-09-18,Samosa,Snack,4,20,Bandra,Cash,40,4.0
+O1186,2026-09-01,Cold Coffee,Beverage,4,120,Powai,Cash,32,5.0
+O1187,2026-09-21,Masala Chai,Beverage,4,30,Bandra,Cash,30,5.0
+O1188,2026-09-17,Bun Maska,Snack,3,35,Powai,UPI,58,
+O1189,2026-09-01,Cutting Chai,Beverage,1,15,Andheri,UPI,31,4.0
+O1190,2026-09-03,Brownie,Dessert,3,80,Bandra,UPI,20,5.0
+O1191,2026-09-14,Cutting Chai,Beverage,2,15,Andheri,Cash,33,4.0
+O1192,2026-09-22,Masala Chai,Beverage,4,30,Bandra,UPI,39,4.0
+O1193,2026-09-25,Sandwich,Snack,2,90,Bandra,UPI,21,3.0
+O1194,2026-09-13,Masala Chai,Beverage,2,30,Bandra,Cash,30,4.0
+O1195,2026-09-09,Masala Chai,Beverage,1,30,Bandra,UPI,24,4.0
+O1196,2026-09-30,Vada Pav,Snack,4,25,Bandra,UPI,38,4.0
+O1197,2026-09-14,Sandwich,Snack,4,90,Bandra,Cash,48,5.0
+O1198,2026-09-10,Cutting Chai,Beverage,1,15,Andheri,Card,58,4.0
+O1199,2026-09-14,Cutting Chai,Beverage,2,15,Andheri,UPI,33,4.0
+O1200,2026-09-01,Bun Maska,Snack,2,35,Andheri,UPI,54,3.0
+O1201,2026-09-10,Cheesecake,Dessert,2,150,Bandra,UPI,26,4.0
+O1202,2026-09-16,Filter Coffee,Beverage,4,60,Powai,Cash,50,4.0
+O1203,2026-09-28,Masala Chai,Beverage,-2,30,Andheri,Cash,41,4.0
+O1204,2026-09-23,Masala Chai,Beverage,2,30,Bandra,UPI,49,4.0
+O1205,2026-09-24,Cutting Chai,Beverage,1,15,Bandra,Cash,49,5.0
+O1206,2026-09-17,Masala Chai,Beverage,1,30,Andheri,UPI,39,2.0
+O1207,2026-09-04,Samosa,Snack,4,20,Bandra,UPI,28,4.0
+O1208,2026-09-12,Masala Chai,Beverage,4,30,Andheri,Card,39,5.0
+O1209,2026-09-30,Filter Coffee,Beverage,1,60,Powai,UPI,52,2.0
+O1210,2026-09-02,Samosa,Snack,3,20,Bandra,UPI,58,1.0
+O1211,2026-09-27,Vada Pav,Snack,1,25,Bandra,UPI,56,5.0
+O1212,2026-09-21,Cutting Chai,Beverage,1,15,Powai,Cash,24,2.0
+O1213,2026-09-09,Bun Maska,Snack,2,35,Andheri,Card,42,2.0
+O1214,2026-09-24,Samosa,Snack,1,20,Bandra,Card,21,5.0
+O1215,2026-09-26,Samosa,Snack,2,20,POWAI,UPI,45,4.0
+O1216,2026-09-02,Masala Chai,Beverage,4,30,Powai,UPI,59,3.0
+O1217,2026-09-04,Masala Chai,Beverage,3,30,Andheri,Cash,19,3.0
+O1218,2026-09-20,Brownie,Dessert,3,80,Andheri,UPI,45,4.0
+O1219,2026-09-30,Cold Coffee,Beverage,2,120,Bandra,Card,57,4.0
+O1220,2026-09-01,Cutting Chai,Beverage,1,15,Bandra,Cash,53,4.0
+O1221,2026-09-20,Filter Coffee,Beverage,1,60,Andheri,UPI,33,5.0
+O1222,2026-09-05,Samosa,Snack,2,20,Bandra,Cash,21,5.0
+O1223,2026-09-20,Cheesecake,Dessert,1,150,Andheri,UPI,56,5.0
+O1224,2026-09-19,Cutting Chai,Beverage,4,15,Powai,UPI,56,3.0
+O1225,2026-09-03,Brownie,Dessert,4,80,Bandra,Cash,41,4.0
+O1226,2026-09-21,Masala Chai,Beverage,4,30,Andheri,UPI,59,5.0
+O1227,2026-09-27,Vada Pav,Snack,3,25,Bandra,Cash,17,5.0
+O1228,2026-09-26,Vada Pav,Snack,3,25,powai,Cash,43,1.0
+O1229,2026-09-01,Masala Chai,Beverage,3,30,Bandra,Card,18,2.0
+O1230,2026-09-08,Masala Chai,Beverage,2,30,Andheri,Card,57,2.0
+O1231,2026-09-08,Cold Coffee,Beverage,3,120,Andheri,UPI,46,4.0
+O1232,2026-09-14,Cheesecake,Dessert,4,150,Bandra,UPI,56,4.0
+O1233,2026-09-05,Vada Pav,Snack,4,25,Andheri,Cash,41,4.0
+O1234,2026-09-26,Brownie,Dessert,3,80,Andheri,Card,20,5.0
+O1235,2026-09-24,Bun Maska,Snack,1,35,Andheri,UPI,18,2.0
+O1236,2026-09-25,Filter Coffee,Beverage,3,60,Powai,UPI,31,4.0
+O1237,2026-09-06,Bun Maska,Snack,2,35,Powai,UPI,48,5.0
+O1238,2026-09-01,Masala Chai,Beverage,3,30,Andheri,UPI,23,4.0
+O1239,2026-09-28,Masala Chai,Beverage,3,30,Andheri,Cash,53,3.0
+O1240,2026-09-09,Sandwich,Snack,4,90,Bandra,UPI,27,3.0
+O1241,2026-09-20,Bun Maska,Snack,2,35,Powai,Cash,38,3.0
+O1242,2026-09-28,Cutting Chai,Beverage,4,15,Andheri,Cash,25,2.0
+O1243,2026-09-02,Vada Pav,Snack,4,25,Andheri,Cash,37,4.0
+O1244,2026-09-01,Vada Pav,Snack,2,25,Bandra,UPI,36,5.0
+O1245,2026-09-01,Sandwich,Snack,2,90,Powai,UPI,17,5.0
+O1246,2026-09-05,Vada Pav,Snack,3,25,Bandra,Cash,41,3.0
+O1247,2026-09-02,Cold Coffee,Beverage,4,120,Andheri,Cash,50,3.0
+O1248,2026-09-25,Cold Coffee,Beverage,3,120,Bandra,UPI,57,5.0
+O1249,2026-09-19,Cold Coffee,Beverage,4,120,Powai,Card,31,4.0
+O1250,2026-09-30,Samosa,Snack,2,20,Bandra,UPI,54,2.0
+O1251,2026-09-25,Sandwich,Snack,3,90,Bandra,Card,54,3.0
+O1252,2026-09-29,Filter Coffee,Beverage,2,60,Powai,UPI,59,
+O1253,2026-09-08,Cutting Chai,Beverage,4,15,Powai,UPI,33,5.0
+O1254,2026-09-09,Cutting Chai,Beverage,2,15,Bandra,UPI,53,4.0
+O1255,2026-09-26,Bun Maska,Snack,3,35,Andheri,,41,4.0
+O1256,2026-09-08,Bun Maska,Snack,1,35,Andheri,UPI,19,1.0
+O1257,2026-09-02,Masala Chai,Beverage,4,30,Powai,UPI,28,4.0
+O1258,2026-09-21,Masala Chai,Beverage,2,30,Bandra,UPI,45,4.0
+O1259,2026-09-25,Vada Pav,Snack,2,25,Andheri,,23,4.0
+O1260,2026-09-30,Masala Chai,Beverage,3,3000,Andheri,UPI,35,4.0
+O1261,2026-09-28,Sandwich,Snack,2,90,Andheri,Cash,50,5.0
+O1262,2026-09-04,Cutting Chai,Beverage,4,15,Powai,Cash,23,5.0
+O1263,2026-09-24,Masala Chai,Beverage,3,30,andheri,UPI,38,4.0
+O1264,2026-09-26,Brownie,Dessert,3,80,Bandra,UPI,26,5.0
+O1265,2026-09-21,Masala Chai,Beverage,1,30,Powai,Card,40,4.0
+O1266,2026-09-25,Cutting Chai,Beverage,1,15,Powai,Cash,27,3.0
+O1267,2026-09-26,Masala Chai,Beverage,2,30,Powai,UPI,58,5.0
+O1268,2026-09-14,Masala Chai,Beverage,4,30,Bandra,Cash,20,1.0
+O1269,2026-09-02,Masala Chai,Beverage,4,30,Bandra,UPI,58,3.0
+O1270,2026-09-14,Masala Chai,Beverage,3,30,Andheri,UPI,51,4.0
+O1271,2026-09-07,Masala Chai,Beverage,3,30,Bandra,Cash,53,4.0
+O1272,2026-09-04,Masala Chai,Beverage,2,30,Powai,UPI,53,5.0
+O1273,2026-09-04,Vada Pav,Snack,1,25,Bandra,Cash,25,3.0
+O1274,2026-09-21,Samosa,Snack,1,20,Andheri,UPI,57,
+O1275,2026-09-16,Cold Coffee,Beverage,2,120,Powai ,Cash,42,
+O1276,2026-09-17,Cutting Chai,Beverage,2,15,Bandra,UPI,58,4.0
+O1277,2026-09-23,Filter Coffee,Beverage,1,60,Bandra,UPI,54,3.0
+O1278,2026-09-17,Sandwich,Snack,2,90,Andheri,UPI,41,3.0
+O1279,2026-09-19,Sandwich,Snack,1,90,Andheri,UPI,33,4.0
+O1280,2026-09-03,Masala Chai,Beverage,3,30,Andheri,Cash,22,4.0
+O1281,2026-09-26,Cutting Chai,Beverage,4,15,Andheri,UPI,21,2.0
+O1282,2026-09-14,Cutting Chai,Beverage,3,15,Powai,UPI,33,5.0
+O1283,2026-09-05,Cutting Chai,Beverage,2,15,Andheri,UPI,51,5.0
+O1284,2026-09-25,Vada Pav,Snack,2,25,Bandra,UPI,38,1.0
+O1285,2026-09-23,Cold Coffee,Beverage,2,120,Bandra,Cash,37,4.0
+O1286,2026-09-02,Masala Chai,Beverage,1,30,Bandra,UPI,27,4.0
+O1287,2026-09-06,Cold Coffee,Beverage,3,120,Bandra,Card,41,2.0
+O1288,2026-09-01,Vada Pav,Snack,3,25,Bandra,UPI,44,4.0
+O1289,2026-09-09,Masala Chai,Beverage,1,30,andheri,Cash,59,5.0
+O1290,2026-09-03,Sandwich,Snack,2,90,Bandra,UPI,48,5.0
+O1291,2026-09-22,Masala Chai,Beverage,2,30,Powai,UPI,43,3.0
+O1292,2026-09-16,Brownie,Dessert,1,80,Bandra,Card,56,4.0
+O1293,2026-09-30,Masala Chai,Beverage,3,30,Bandra,Card,35,4.0
+O1294,2026-09-23,Sandwich,Snack,3,90,Powai,Card,57,3.0
+O1295,2026-09-19,Brownie,Dessert,3,80,Powai,UPI,32,4.0
+O1296,2026-09-16,Cheesecake,Dessert,3,150,Bandra,UPI,22,4.0
+O1297,2026-09-02,Bun Maska,Snack,4,35,Bandra,Cash,34,5.0
+O1298,2026-09-03,Bun Maska,Snack,4,35,Bandra,UPI,22,2.0
+O1299,2026-09-19,Samosa,Snack,3,20,Andheri,Cash,22,
+O1010,2026-09-26,Cold Coffee,Beverage,4,120,Andheri,Cash,39,5.0
+O1050,2026-09-15,Cutting Chai,Beverage,1,15,Andheri,UPI,53,4.0
+O1120,2026-09-05,Vada Pav,Snack,1,25,Andheri,Card,36,2.0
+O1200,2026-09-01,Bun Maska,Snack,2,35,Andheri,UPI,54,3.0
